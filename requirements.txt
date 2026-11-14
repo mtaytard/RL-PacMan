@@ -1,0 +1,8 @@
+# Versions match the June 2024 notebooks: gym.make("ALE/MsPacman-v5")
+# with the Arcade Learning Environment 0.8.1.
+gymnasium[atari,accept-rom-license]==0.29.1
+torch>=2.2
+numpy
+matplotlib
+pandas
+seaborn
